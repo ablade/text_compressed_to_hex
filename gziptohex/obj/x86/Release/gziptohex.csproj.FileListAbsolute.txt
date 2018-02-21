@@ -1,0 +1,11 @@
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Release\gziptohex.exe
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Release\gziptohex.pdb
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\gziptohex.csproj.GenerateResource.Cache
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\gziptohex.exe
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\gziptohex.pdb
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Release\gziptohex.exe.manifest
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Release\gziptohex.application
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\gziptohex.exe.manifest
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Release\gziptohex.application

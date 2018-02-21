@@ -1,0 +1,12 @@
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Debug\gziptohex.exe
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Debug\gziptohex.pdb
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\gziptohex.csproj.GenerateResource.Cache
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\gziptohex.exe
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\gziptohex.pdb
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Debug\gziptohex.exe.manifest
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\bin\Debug\gziptohex.application
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\gziptohex.exe.manifest
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\gziptohex.application
+C:\Users\abaldemeca\documents\visual studio 2010\Projects\gziptohex\gziptohex\obj\x86\Debug\gziptohex.csprojResolveAssemblyReference.cache
